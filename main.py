@@ -13,7 +13,7 @@ import random as r
 from packages.receiver import Receiver
 
 # Computes the nearest points on two skew lines. 
-# The nearest pint is the intersection of line1 with a plane that includes line2 and a vector to lines 1 and 2.
+# The nearest point is the intersection of line1 with a plane that includes line2 and a normal vector to lines 1 and 2.
 def compute_nearest_point(input):
 
     dp = np.dot(input[2], input[3])
