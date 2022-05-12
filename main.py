@@ -108,8 +108,8 @@ variation = 1
 
 white = (1.0, 1.0, 1.0, 0.5)
 red = (1.0, 0.0, 0.0, 0.5)
-blue = (0.0, 1.0, 0.0, 0.5)
-green = (0.0, 0.0, 1.0, 0.5)
+green = (0.0, 1.0, 0.0, 0.5)
+blue = (0.0, 0.0, 1.0, 0.5)
 
 # Placement of the three receivers in 3D space
 x_1 = -1.5/12
